@@ -3,13 +3,12 @@
 <!-- Image resize: https://gist.github.com/uupaa/f77d2bcf4dc7a294d109 -->
 🔭 **I’m currently working on:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marklcrns&repo=Generals-2.0&show_owner=true)](https://github.com/marklcrns/Generals-2.0)
-<img src="https://github.com/marklcrns/Generals-2.0/raw/master/demo/main.gif" width="600" alt="Generals-2.0 demo">
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marklcrns&repo=Generals-2.0&show_owner=true)](https://github.com/marklcrns/Generals-2.0)<br>
+<img src="https://github.com/marklcrns/Generals-2.0/raw/master/demo/main.gif" width="600" alt="Generals-2.0 demo"><br>
 
 🏫 **I'm currently in:** College pursuing a Computer Science Degree <br>
 🌱 **I’m currently learning:** Minimax Algorithm for Imperfect Information and Raspberry Pi <br>
 📚 **I’m currently reading:** _Algorithms to Live By_ by Brian Christian, Tom Griffiths <br>
-😄 **Pronouns:** He / Him / Mark <br>
 ⚡ **Fun fact:** My very first program was a mini search engine in my [Excel Trading Spreadsheet](./resources/2019_PaperMoney_TradingSpreadsheet.xlsm) <br>
 
 <br>
