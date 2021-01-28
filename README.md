@@ -19,7 +19,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-marklucernas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklucernas)
 [![Mail Badge](https://img.shields.io/badge/-lucernas.mj-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:lucernas.mj@gmail.com)
 
-[CV / Resumé](https://github.com/marklcrns/marklcrns/raw/main/resources/resume_lts.pdf)
+[CV / Résumé](https://github.com/marklcrns/marklcrns/raw/main/resources/resume_lts.pdf)
 
 <details>
 
@@ -30,8 +30,8 @@
 <br>
 
 I am an avid [Neovim](https://github.com/marklcrns/nvim-config) user who swing
-trade stocks on the side. I also love playing guitar and reading psychology
-books.
+trade stocks on the side. I also love playing guitar, reading psychology
+books, and hiking.
 
 #### Github Stats
 
