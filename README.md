@@ -6,10 +6,10 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marklcrns&repo=Generals-2.0&show_owner=true)](https://github.com/marklcrns/Generals-2.0)<br>
 <img src="https://github.com/marklcrns/Generals-2.0/raw/master/demo/main.gif" width="600" alt="Generals-2.0 demo"><br>
 
-🏫 **I'm currently in:** College pursuing a Computer Science Degree <br>
-🌱 **I’m currently learning:** Minimax Algorithm for Imperfect Information and Raspberry Pi <br>
-📚 **I’m currently reading:** _Algorithms to Live By_ by Brian Christian, Tom Griffiths <br>
-⚡ **Fun fact:** My very first program was a mini search engine in my [Excel Trading Spreadsheet](./resources/2019_PaperMoney_TradingSpreadsheet.xlsm) <br>
+🏫 **I'm currently in:** College pursuing a Computer Science Degree<br>
+🌱 **I’m currently learning:** Minimax Algorithm for Imperfect Information and Raspberry Pi<br>
+📚 **I’m currently reading:** _Head First Design Pattern_ by Eric Freeman and Elisabeth Robson<br>
+⚡ **Fun fact:** My very first program was a mini search engine in my [Excel Trading Spreadsheet](./resources/2019_PaperMoney_TradingSpreadsheet.xlsm)<br>
 
 <br>
 
