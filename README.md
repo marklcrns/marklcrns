@@ -4,7 +4,7 @@
 🔭 **I’m currently working on:**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marklcrns&repo=my-zettelkasten&show_owner=true)](https://github.com/marklcrns/Generals-2.0)<br>
-<img src="https://i.imgur.com/gSGSCSq.gif" width="600" alt="My-Zettelkasten demo"><br>
+<img src="https://i.imgur.com/LGbAGFe.gif" width="600" alt="My-Zettelkasten demo"><br>
 🏫 **I'm currently in:** College pursuing a Computer Science Degree<br>
 🌱 **I’m currently learning:** Android Mobile Development<br>
 📚 **I’m currently reading:** _Head First Design Pattern_ by Eric Freeman and Elisabeth Robson<br>
