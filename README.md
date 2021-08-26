@@ -1,9 +1,10 @@
 ### Hi There! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 <!-- Image resize: https://gist.github.com/uupaa/f77d2bcf4dc7a294d109 -->
-<!-- 🔭 **I’m currently working on:**                                                                                                                                  -->
-<!-- [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marklcrns&repo=Generals-2.0&show_owner=true)](https://github.com/marklcrns/Generals-2.0)<br> -->
-<!-- <img src="https://github.com/marklcrns/Generals-2.0/raw/master/demo/main.gif" width="600" alt="Generals-2.0 demo"><br>                                                -->
+🔭 **I’m currently working on:**
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marklcrns&repo=my-zettelkasten&show_owner=true)](https://github.com/marklcrns/Generals-2.0)<br>
+<img src="https://i.imgur.com/1ue3UEi.gif" width="600" alt="My-Zettelkasten demo"><br>
 🏫 **I'm currently in:** College pursuing a Computer Science Degree<br>
 🌱 **I’m currently learning:** Android Mobile Development<br>
 📚 **I’m currently reading:** _Head First Design Pattern_ by Eric Freeman and Elisabeth Robson<br>
