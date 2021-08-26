@@ -3,7 +3,7 @@
 <!-- Image resize: https://gist.github.com/uupaa/f77d2bcf4dc7a294d109 -->
 🔭 **I’m currently working on:**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marklcrns&repo=my-zettelkasten&show_owner=true)](https://github.com/marklcrns/Generals-2.0)<br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marklcrns&repo=my-zettelkasten&show_owner=true)](https://github.com/marklcrns/my-zettelkasten)<br>
 <img src="./resources/demo.gif" width="600" alt="My-Zettelkasten demo"><br>
 🏫 **I'm currently in:** College pursuing a Computer Science Degree<br>
 🌱 **I’m currently learning:** Android Mobile Development<br>
