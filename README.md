@@ -13,7 +13,7 @@
 ### Connect With Me
 
 [🌎 marklucernas.com](https://marklucernas.com/)<br>
-[📄 CV / Résumé](https://github.com/marklcrns/marklcrns/raw/main/resources/resume_lts.pdf)
+[📄 CV / Résumé](https://github.com/marklcrns/marklcrns/raw/main/resources/resume_latest.pdf)
 
 <!-- Badges: https://shields.io/ -->
 [![Linkedin Badge](https://img.shields.io/badge/-marklucernas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklucernas)
