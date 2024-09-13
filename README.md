@@ -6,8 +6,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=marklcrns&repo=my-zettelkasten&show_owner=true)](https://github.com/marklcrns/my-zettelkasten)<br>
 <img src="./resources/demo.gif" width="600" alt="My-Zettelkasten demo"><br>
 🏫 **I'm currently in:** College pursuing a Computer Science Degree<br>
-🌱 **I’m currently learning:** Android Mobile Development<br>
-📚 **I’m currently reading:** _Head First Design Pattern_ by Eric Freeman and Elisabeth Robson<br>
+🌱 **I’m currently learning:** Computer Networking<br>
+📚 **I’m currently reading:** _Algorithms to Live By_ by Brian Christian and Tom Griffiths<br>
 ⚡ **Fun fact:** My very first program was a mini search engine in my [Excel Trading Spreadsheet](./resources/2019_PaperMoney_TradingSpreadsheet.xlsm)<br>
 
 ### Connect With Me
