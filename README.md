@@ -19,7 +19,7 @@ Please checkout my [portfolio](https://marklucernas.com/) for more information a
 ### Connect With Me
 
 - [🌎 marklucernas.com](https://marklucernas.com/)
-- [📄 CV / Résumé](https://github.com/marklcrns/marklcrns/raw/main/resources/resume_lts.pdf)
+- [📄 CV / Résumé](https://marklucernas.com/#/resume)
 
 <!-- Badges: https://shields.io/ -->
 [![Linkedin Badge](https://img.shields.io/badge/-marklucernas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marklucernas)
